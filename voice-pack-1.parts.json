@@ -1,0 +1,28 @@
+{
+ "version": "1",
+ "file": "voice-pack-1.zip",
+ "sha256": "8128555f66f87f2fc08274edb387eed22c277f353dd6f5572f33ba1efad1d6d1",
+ "size": 350178803,
+ "parts": [
+  {
+   "file": "voice-pack-1.zip.part00",
+   "size": 90000000,
+   "sha256": "ee5130e9a6ec92ac354f5c9132965883ad588acf73ea0f328764db651e572275"
+  },
+  {
+   "file": "voice-pack-1.zip.part01",
+   "size": 90000000,
+   "sha256": "002f857eb36f38fdf513cb72966f02ca97543ce66bb3868b65b3e3a0abb5623a"
+  },
+  {
+   "file": "voice-pack-1.zip.part02",
+   "size": 90000000,
+   "sha256": "e3e40981b77f8bec1e4cf35f9cf3424add7358151b071947eb11ec2b634f7b37"
+  },
+  {
+   "file": "voice-pack-1.zip.part03",
+   "size": 80178803,
+   "sha256": "8d5fcb8d92eb9cdd54248e4152495d1fe9ac734fa8b96ebc7f3014b7333aecb6"
+  }
+ ]
+}
